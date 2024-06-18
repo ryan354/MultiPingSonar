@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Multi-Ping\Multi-Ping\bin\Release\Multi-Ping.exe.config
+C:\Users\1\source\repos\Multi-Ping\Multi-Ping\bin\Release\Multi-Ping.exe
+C:\Users\1\source\repos\Multi-Ping\Multi-Ping\bin\Release\Multi-Ping.pdb
+C:\Users\1\source\repos\Multi-Ping\Multi-Ping\obj\Release\Multi-Ping.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Multi-Ping\Multi-Ping\obj\Release\Multi_Ping.start2.resources
+C:\Users\1\source\repos\Multi-Ping\Multi-Ping\obj\Release\Multi_Ping.Properties.Resources.resources
+C:\Users\1\source\repos\Multi-Ping\Multi-Ping\obj\Release\Multi-Ping.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Multi-Ping\Multi-Ping\obj\Release\Multi-Ping.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Multi-Ping\Multi-Ping\obj\Release\Multi-Ping.exe
+C:\Users\1\source\repos\Multi-Ping\Multi-Ping\obj\Release\Multi-Ping.pdb
