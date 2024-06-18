@@ -1,5 +1,9 @@
 # MultiPingSonar
 
+<p align="center">
+  <img src="multiping.PNG">
+</p>
+
 Multi-Ping is a solution for obstacle detection in remotely operated vehicles (ROVs), utilizing altimeter echo sounders (Ping Sonar) from BlueRobotics. This system integrates four Ping altimeter sensors, each providing precise distance measurements and confidence levels, ensuring a comprehensive assessment of the surroundings.
 
 ## Key Features
